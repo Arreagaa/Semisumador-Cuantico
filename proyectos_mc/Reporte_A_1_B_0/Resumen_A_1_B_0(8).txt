@@ -1,0 +1,8 @@
+Resumen A=1, B=0:
+- Qubits A y B inicializados en 1 y 0.
+- CNOT aplicada para sumar (A xor B).
+- Toffoli aplicada para el acarreo (A . B).
+- Se midieron qubit 1 (suma) y qubit 2 (acarreo).
+- Resultado más probable: suma = 1, acarreo = 1.
+- Histograma generado con la probabilidad de cada resultado.
+- Gráfico muestra estados de entrada A y B.
